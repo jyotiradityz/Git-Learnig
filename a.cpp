@@ -12,7 +12,7 @@ int32_t jyot(){
     Jyotiraditya Patil;
     int t;cin>>t;
         while(t--){
-            
+            gamma_distribution
         }
     return 0;
 }
