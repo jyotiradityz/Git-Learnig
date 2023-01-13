@@ -12,7 +12,9 @@ int32_t jyot(){
     Jyotiraditya Patil;
     int t;cin>>t;
         while(t--){
-            gamma_distribution
+            accumulate
+            _wgetdcwd_nolockwma
+            negative_binomial_distribution
         }
     return 0;
 }
